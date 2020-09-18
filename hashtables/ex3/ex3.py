@@ -4,7 +4,28 @@ def intersection(arrays):
     """
     # Your code here
 
-    return result
+
+    # Finding the silver lining between what appears to be 3 arrays. 
+    # I have still yet to understand what the + [Arrays] are even doing
+    # in the driver code. My best surmission is that I will have to loop through all 3 
+    # and create a 'result' array consisting of all numbers the 3 arrays have
+    # in common. While it sounds like a solid idea now, it still doesn't speak
+    # for the mystery that is the + [Arrays]. It's likely relevent to the subject
+    # of hashing but that's only a shot in the dark since my understanding is 
+    # tenuous at best.
+
+    hash_table = {}
+    result = []
+
+    for numbers in arrays:
+        
+        
+
+        # append result to arrays or vice versa?
+
+
+
+        return result
 
 
 if __name__ == "__main__":
