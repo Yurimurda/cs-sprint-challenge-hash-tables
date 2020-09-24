@@ -17,7 +17,8 @@ def intersection(arrays):
     hash_table = {}
     result = []
 
-    for numbers in arrays:
+    for array in arrays:
+        
         
         
 
